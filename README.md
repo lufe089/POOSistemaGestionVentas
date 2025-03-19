@@ -114,13 +114,6 @@ Además, deberán crear un método en la clase `Tienda` que permita inicializar 
   - `void mostrarVentas()`: Muestra resumen de ventas.
   - `float calcularValorInventario()`: Calcula valor total del inventario.
 
-## 🎯 Cronograma y Entregables
-- **Día 1:** Diagrama Mermaid, clases básicas (`.h`, `.cpp`), mínimo 2 métodos funcionales.
-- **Día 2:** Al menos 5 métodos funcionales.
-- **Entrega Final:** Proyecto completo funcional, compilando sin errores, incluyendo todos los métodos y funcionalidades solicitadas. Commits periódicos en repositorio.
-
-**Nota:** Esta actividad se puede realizar en grupos de máximo 2 personas.
-
 ## 🚩 Requisitos Técnicos del Proyecto
 
 - Las declaraciones e implementaciones deben estar separadas en archivos `.h` y `.cpp`.
@@ -128,12 +121,3 @@ Además, deberán crear un método en la clase `Tienda` que permita inicializar 
 - Apuntadores para la creación y manejo dinámico de objetos.
 - Cada clase debe tener constructores y destructores claramente definidos. Recuerden que todas las clases deben tener constructores sin parámetros
 - La aplicación principal debe desarrollarse en `main.cpp` con un menú interactivo para usar todas las funcionalidades disponibles. Toma de ejemplo el del ejercicio de las torres de Niza disponible en: https://github.com/lufe089/ejm_mem_dinamica_obj
-
-## 🎯 Entregables de los Estudiantes
-
-- Diagrama de clases  en Mermaid mostrando relaciones, atributos y métodos.
-- Archivos `.h` y `.cpp` claramente organizados en carpetas.
-- Un archivo `main.cpp` que permita interactuar con el sistema mediante un menú claro y funcional.
-- Proyecto funcionando correctamente y compilando sin errores, incluyendo cada una de las funcionalidades solicitadas.
-- Commits periódicos mostrando el avance del proyecto en un repositorio.
-
