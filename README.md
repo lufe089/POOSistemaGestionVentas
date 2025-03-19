@@ -92,7 +92,7 @@ Además, deberán crear un método en la clase `Tienda` que permita inicializar 
 
 ### 🔸 Clase Venta
 
-- **Atributos:** `id`, `cliente`, `productosVendidos`
+- **Atributos:** `id`, `cliente`, `productosVendidos`,`total` 
 - **Constructores y destructores:** Constructor para inicializar atributos, destructor para liberar recursos.
 - **Métodos:**
   - `Venta(Cliente* cliente)`: constructor.
